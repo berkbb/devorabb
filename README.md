@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/misolori/vscode-fluent-icons/master/icon.png" width="140" />
+<img src="https://raw.githubusercontent.com/berkbb/devorabb/main/devoraicon.png" width="140" />
 
 # Devora Theme by BB
 
@@ -6,9 +6,8 @@ A custom VS Code theme by BB.
 
 
 
-![Fluent icon preview](https://github.com/misolori/vscode-fluent-icons/raw/master/preview.png)
+![Preview](https://raw.githubusercontent.com/berkbb/devorabb/main/main.jpg)
 
-</div>
 
 [Color Themes FAQ for Visual Studio Code](https://code.visualstudio.com/api/extension-guides/color-theme) 
 
