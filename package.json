@@ -3,9 +3,23 @@
     "displayName": "DevoraBB",
     "description": "Custom VS Code theme by BB.",
     "version": "0.0.1",
+    "publisher": "berkbb",
     "engines": {
         "vscode": "^1.54.0"
     },
+    "homepage": "https://github.com/berkbb/devorabb/blob/main/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/berkbb/devorabb.git"
+	},
+    "bugs": {
+		"url": "https://github.com/berkbb/devorabb/issues"
+	},
+	"icon": "devoraicon.png",
+	"galleryBanner": {
+		"color": "#343434",
+		"theme": "dark"
+	},
     "categories": [
         "Themes"
     ],
