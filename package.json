@@ -1,0 +1,21 @@
+{
+    "name": "devorabb-vscode-theme",
+    "displayName": "DevoraBB",
+    "description": "Custom VS Code theme by BB.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DevoraBB",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DevoraBB-color-theme.json"
+            }
+        ]
+    }
+}
