@@ -23,6 +23,17 @@
     "categories": [
         "Themes"
     ],
+    "extensionKind": [
+		"ui",
+		"workspace"
+	],
+    "keywords": [
+		"berkbb",
+		"devora",
+		"dark",
+		"theme"
+		
+	],
     "contributes": {
         "themes": [
             {
