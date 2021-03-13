@@ -14,8 +14,8 @@ A custom VS Code theme by BB.
 [Color Themes FAQ for Visual Studio Code](https://code.visualstudio.com/api/extension-guides/color-theme) 
 
 # Install
-1. Install the  theme from the [Marketplace](http://127.0.0.1).
-2. Open the command palette (`Ctrl/Cmd + Shift + P`) and search for `Preferences: Color Theme` or use  (`Ctrl/Cmd + K + D`) keyboard shortcut.
+1. Install the  theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=berkbb.devorabb-vscode-theme).
+2. Open the command palette (`Ctrl/Cmd + Shift + P`) and search for `Preferences: Color Theme` or use  (`Ctrl/Cmd + K + T`) keyboard shortcut.
 3. Select `DevoraBB`.
 
 
