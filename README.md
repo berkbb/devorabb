@@ -1,4 +1,9 @@
 [![VS Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/berkbb.devorabb-vscode-theme)](https://marketplace.visualstudio.com/items?itemName=berkbb.devorabb-vscode-theme)
+[![VS Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/berkbb.devorabb-vscode-theme?color=informational)](https://marketplace.visualstudio.com/items?itemName=berkbb.devorabb-vscode-theme)
+[![License](https://img.shields.io/github/license/berkbb/devorabb?color=important)](https://marketplace.visualstudio.com/items?itemName=berkbb.devorabb-vscode-theme)
+
+
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/berkbb/devorabb/main/devoraicon.png" width="140" />
 
