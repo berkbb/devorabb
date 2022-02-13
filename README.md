@@ -1,7 +1,10 @@
+[![VS Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/berkbb.devorabb-vscode-theme)](https://marketplace.visualstudio.com/items?itemName=berkbb.devorabb-vscode-theme)
 <div align="center">
 <img src="https://raw.githubusercontent.com/berkbb/devorabb/main/devoraicon.png" width="140" />
 
 # Devora Theme by BB
+
+
 
 A custom VS Code theme by BB.
 
