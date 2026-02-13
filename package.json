@@ -2,7 +2,7 @@
     "name": "devorabb-vscode-theme",
     "displayName": "DevoraBB",
     "description": "Custom VS Code theme by BB.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "berkbb",
     "engines": {
         "vscode": "^1.54.0"
@@ -40,6 +40,16 @@
                 "label": "DevoraBB",
                 "uiTheme": "vs-dark",
                 "path": "./themes/DevoraBB-color-theme.json"
+            },
+            {
+                "label": "DevoraBB Vibrant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DevoraBB-vibrant-color-theme.json"
+            },
+            {
+                "label": "DevoraBB Soft",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DevoraBB-soft-color-theme.json"
             }
         ]
     }
